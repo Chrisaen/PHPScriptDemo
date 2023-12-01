@@ -1,9 +1,9 @@
 <?php
 
 // Database configuration
-$servername = "localhost";  // Replace with your database host
-$username = "root";          // Replace with your database username
-$password = "";          // Replace with your database password
+$servername = "localhost";  
+$username = "root";          
+$password = "";         
 $dbname = "PHPScriptDemo";
 
 // Create connection
